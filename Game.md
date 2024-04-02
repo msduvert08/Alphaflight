@@ -1,1 +1,1 @@
-[Alpha Demo](https://192.168.1.217/)
+[Alpha Demo](http://192.168.1.217/)
